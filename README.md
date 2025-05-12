@@ -26,8 +26,8 @@ void reverse(int arr[], int size) {
 ## part VI
 
 
-Version #1	O(N)	O(N)
-Version #2	O(N)	O(1)
+Version #1	O(N)	O(N)  /n
+Version #2	O(N)	O(1)  /n
 Version #3	O(N)	O(N)
 
 
