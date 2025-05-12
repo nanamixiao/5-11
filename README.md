@@ -31,3 +31,6 @@ Version #2	O(N)	O(1)
 Version #3	O(N)	O(N)
 
 
+### video
+
+
